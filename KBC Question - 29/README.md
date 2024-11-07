@@ -1,23 +1,12 @@
-# KBC Question 28
+# KBC Question 29
 
-Guess the output for the code
+What will be the answer fo the code
 
-Cpp code:
-
-```cpp
-#include<iostream>
-
-int main(){
-    int a = 10;
-    printf("%d", a);
-    std::cout << "%d" << a; 
-    return 0;
-}
-```
+## Does python support operator overloading?
 
 Options
 
-1. 10%d10
-2. 1010
-3. Error
-4. %d10%d10
+1. Yes
+2. No
+3. Yes, But in a different way
+4. None Of The Above
