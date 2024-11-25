@@ -1,2 +1,2 @@
-# KBC
+# KBC.
 Kaun Banega Coder.
